@@ -10,28 +10,28 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 #red {
-  border-top-color: #f00;
+  border-top-color: red;
 }
 
 #orange {
-  border-top-color: #f00;
+  border-top-color: orange;
 }
 #yellow {
-  border-top-color: #f00;
+  border-top-color: yellow;
 }
 
 #green {
-  border-top-color: #f00;
+  border-top-color: green;
 }
 
 #blue {
-  border-top-color: #f00;
+  border-top-color: blue;
 }
 
 #indigo {
-  border-top-color: #f00;
+  border-top-color: indigo;
 }
 
 #violet {
-  border-top-color: #f00;
+  border-top-color: violet;
 }
